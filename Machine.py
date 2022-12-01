@@ -1,6 +1,9 @@
 from turtle import right, left, forward, penup, pendown, pen, pencolor, setup, goto, shape
 from colorsys import hsv_to_rgb
-
+"""
+Grammar by Nicolas Child
+Turtle functions by Professor Wagstaff of Utah Valley University
+"""
 # Global Params
 LEVELS = 5 # Number of rewrites
 W = 1000 # Screen width (and height for a square)
